@@ -44,6 +44,13 @@ a:hover{
     background: url(../images/logo.png) no-repeat;
 }
 
+.logoV{ 
+    float: left;
+    padding: 10px;
+    width: 70px;
+    filter: brightness(10);
+}
+
 /* **************************************************************** */
 
 /* Barra de navegação 
